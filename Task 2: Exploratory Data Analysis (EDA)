@@ -1,0 +1,31 @@
+
+## Project Overview
+This project performs Exploratory Data Analysis on a cleaned dataset as part of the DecodeLabs internship.
+
+## Objectives
+- Calculate mean, median, and count.
+- Analyze product-wise order counts and average order values.
+- Study monthly order value trends.
+- Identify potential outliers using the IQR method.
+- Summarize key observations.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+## Key Findings
+- Total orders analyzed: 1,200
+- Number of product categories: 7
+- Mean order value: 1,053.97
+- Median order value: 823.62
+- Potential outliers: 8
+- Missing values: 0
+- Duplicate Order IDs: 0
+
+## Conclusion
+The analysis revealed differences in product performance, monthly fluctuations in order values, and eight potential high-value outliers. The dataset contained no missing values or duplicate Order IDs.
+
+## Project Output
+The Google Colab notebook contains the analysis code, summary statistics, visualizations, and outlier detection results.
